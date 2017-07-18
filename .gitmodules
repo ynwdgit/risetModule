@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/ynwdgit/api.git
+[submodule "web-app"]
+	path = web-app
+	url = https://github.com/ynwdgit/web-app.git
